@@ -1,6 +1,10 @@
 # SImon-Game
 This project is a browser-based implementation of the classic Simon game, where players must repeat increasingly complex sequences of colors and sounds. The game is built using HTML, CSS, and JavaScript, with jQuery for DOM manipulation.
 
+<img width="1065" alt="Screenshot 2024-07-30 at 3 41 43 PM" src="https://github.com/user-attachments/assets/def4d155-20fb-41fc-bb4e-145d3f7da83e">
+
+
+
 Features:
 
 Start and Restart: The game begins when a key is pressed and can be restarted after a game over.  
